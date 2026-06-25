@@ -6,7 +6,7 @@ class stackfromgit queue {
 
     public stackfromqueue() {
 
-        q = new LinkedList<>();
+        q =  new LinkedList<>();
     }
 
     public void push(int x) {
