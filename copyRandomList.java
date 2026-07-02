@@ -1,6 +1,6 @@
 // =============================================
 // File: CopyRandomList.java
-// Author: Charan
+// Author: charanudari17
 // Description: Copy List with Random Pointer
 // =============================================
 
